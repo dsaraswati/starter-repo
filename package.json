@@ -30,5 +30,8 @@
   "author": {
     "name": "Dayanand Saraswati",
     "email": "dayanandsroy@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dsaraswati/starter-repo/issues"
   }
 }
