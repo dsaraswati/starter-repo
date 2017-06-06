@@ -1,0 +1,13 @@
+
+# IDE locals
+.code/
+.idea/
+
+# yarn file
+yarn.lock
+
+# node_modules
+node_modules/
+
+# dist directory
+dist/
