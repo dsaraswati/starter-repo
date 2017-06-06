@@ -1,8 +1,11 @@
 {
-  "name": "tips_and_tricks",
+  "name": "starter-repo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsaraswati/starter-repo"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-loader": "^7.0.0",
@@ -23,5 +26,9 @@
     "clean.build": "npm run clean && npm run build",
     "start": "lite-server --baseDir=\"dist\"",
     "serve": "npm run clean.build && npm start && watch 'npm run clean.build' app"
+  },
+  "author": {
+    "name": "Dayanand Saraswati",
+    "email": "dayanandsroy@gmail.com"
   }
 }
